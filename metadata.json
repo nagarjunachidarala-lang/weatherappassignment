@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Responsive weather intelligence dashboard with city geocoding, 7-day forecast trends, temperature visualizations, and daily activity recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
